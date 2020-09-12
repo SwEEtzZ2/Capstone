@@ -1,0 +1,63 @@
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image : url("background3.jpg");
+	}
+.Banner{
+	margin-left: 150px;
+	margin-top: 50px;
+	}
+.btn{
+	margin-left: -75px;
+}
+.product-image img{
+	width: 200px;
+	height:200px;
+}
+.product-item {
+	float: right;
+	background: #ffffff;
+	margin: 30px 30px;
+}
+
+.text-heading{
+	font-size:50px;
+}
+.Log{
+	margin-left: 800px;
+	width:100px;
+}
+.NewUser{
+	margin-right: 300px;
+	margin-top: -1000px;
+	width:100px;
+}
+.Logout{
+	margin-left:800px;
+	width:100px;
+	height:25px;
+}
+.Profile{
+	margin-right: 300px;
+	margin-top: -1000px;
+	width:100px;
+	height:25px;
+}
+
+.dynamic_content{
+	margin-top:-200px;
+	margin-left: 150px;
+	width:690px;
+	padding:15px;
+	text-align: center;
+	background : white;
+}
+.nav_text{
+	margin-left: -200px;
+}
+
+/* Style the tab content */
+.tabcontent {
+	display: none;
+	border-top: none;
+}

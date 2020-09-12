@@ -1,0 +1,1 @@
+<div class ="Banner"><img src="Images/Banner2.jpg">
